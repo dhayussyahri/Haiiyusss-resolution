@@ -2,4 +2,4 @@ rencana awal :
 1. Belajar git 
 => awal belajar git : branch, merge, init dll
 => memahami alur git
-2. Belajar php backend 
+2. Belajar Node.Js
