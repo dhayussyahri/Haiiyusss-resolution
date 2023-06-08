@@ -1,0 +1,3 @@
+rencana awal :
+1. Belajar git 
+2. Belajar php backend 
