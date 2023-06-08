@@ -1,0 +1,4 @@
+rencana awal :
+1. Belajar git 
+=> awal belajar git : branch, merge, init dll
+2. Belajar php backend 
